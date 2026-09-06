@@ -1,0 +1,12 @@
+{
+  "name": "genpark-vector-graph-hybrid-reciprocal-rank-fusion-skill",
+  "version": "1.0.0",
+  "description": "Reciprocal Rank Fusion (RRF) combining dense vector similarity with graph traversal shortest-path proximity.",
+  "category": "Agent Memory Graph & Temporal Knowledge",
+  "runtime": "python3",
+  "entrypoint": "client.py",
+  "author": "GenPark AI",
+  "repository": "https://github.com/alphaparkinc/genpark-vector-graph-hybrid-reciprocal-rank-fusion-skill",
+  "verified": true,
+  "stars": 8
+}
